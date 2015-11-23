@@ -1,0 +1,22 @@
+{
+  "name": "learn-hapi",
+  "version": "1.0.0",
+  "description": "simple application to learn hapi.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdrdavies/learn-hapi.git"
+  },
+  "author": "Csilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdrdavies/learn-hapi/issues"
+  },
+  "homepage": "https://github.com/hdrdavies/learn-hapi#readme",
+  "dependencies": {
+    "hapi": "^11.1.2"
+  }
+}
